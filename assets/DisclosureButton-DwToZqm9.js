@@ -1,0 +1,1 @@
+import{j as r,a as o}from"./index-DbqiVrex.js";function u({open:t,onToggle:n,children:s,className:a,chevronClassName:e="h-5 w-5 shrink-0 text-slate-400"}){return r.jsxs("button",{type:"button",onClick:n,className:a,"aria-expanded":t,children:[s,r.jsx(o,{className:`${e} transition-transform ${t?"rotate-180":""}`,"aria-hidden":"true"})]})}export{u as D};
